@@ -13,7 +13,7 @@ The metric is log loss (lower is better).
 
 ## Kaggle notebook
 
-**Notebook:** [PASTE YOUR KAGGLE NOTEBOOK LINK HERE]
+**Notebook:** https://www.kaggle.com/code/omkardhal/notebook13b8ee3d7e
 
 ## Results
 
